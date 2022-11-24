@@ -1,4 +1,4 @@
 # Voronoi Diagram
 
 ## Sample output
-![image][./sample.ppm]
+![image](./sample.ppm)
